@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1><font color='pink'>Welcome to Destiny <font></h1>
+<h1><font color='red'>Welcome to Destiny <font></h1>
 <h2> atta job ch lvkrch honar..!! </h2>
 
 <a href="https://ashokitech.com/online-training-schedules">Click Here To See Ashok IT Training Schedules</a>
