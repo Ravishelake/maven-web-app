@@ -1,7 +1,7 @@
 <html>
 <body>
 <h1><font color='red'>Welcome to Destiny <font></h1>
-<h2> ALL THE BEST ..!!</h2>
+<h2> ALL THE BEST DevOps Engg..!!</h2>
 
 <a href="https://ashokitech.com/online-training-schedules">Click Here To See Ashok IT Training Schedules</a>
   
