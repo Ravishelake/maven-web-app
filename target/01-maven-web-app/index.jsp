@@ -1,8 +1,8 @@
 <html>
 <body>
-<h1><font color='red'>Welcome to Ashok IT..!!<font></h1>
+<h1><font color='blue'>Welcome to CloudAge..!!<font></h1>
 <h2>Learn Here.. Lead Anywhere..!! </h2>
-
-<a href="https://ashokitech.com/online-training-schedules">Click Here To See Training Schedules</a>
+<h2> Big Data, AWS , Devops , AI, Machine Learning  </h3>
+<a href="https://cloudage.com/online-training-schedules">Click Here To See Training Schedules</a>
 </body>
 </html>
